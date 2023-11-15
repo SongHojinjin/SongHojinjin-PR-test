@@ -6,4 +6,4 @@
 | 신현욱 | Steven0914 | Steven0914/Steven0914-PR-test |
 
 # 인사
-안녕하세요 @SongHojinjin님 저는 @Steven0914입니다. (#2)
+안녕하세요 @SongHojinjin님 저는 @Steven0914입니다. (PR #2)
